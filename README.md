@@ -1,1 +1,1 @@
-# earthquake
+# earthquake seismic
